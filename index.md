@@ -1,6 +1,6 @@
 Hello!
 
-My name is Jason, and welcome to my [https://jasonp000.github.io/](Github Pages) Site!
+My name is Jason, and welcome to my [https://jasonp000.github.io/](Github Pages) Site! [https://jasonp000.github.io](GitHub)
 
 <1999 geocities under construction gif>
 
