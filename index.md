@@ -9,3 +9,7 @@ Check out some of my other sites:
  * [https://www.linkedin.com/in/jason-patalon-0187/](https://www.linkedin.com/in/jason-patalon-0187/)
  * [https://SophieDogg.com](https://SophieDogg.com)
  * [https://github.com/jasonp000](https://github.com/jasonp000)
+
+![Jason Pic](/jasonp000.github.io/docs/assets/jason4sm.jpg)
+
+.
