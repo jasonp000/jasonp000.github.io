@@ -10,4 +10,4 @@ Check out some of my other sites:
  * [https://SophieDogg.com](https://SophieDogg.com)
  * [https://github.com/jasonp000](https://github.com/jasonp000)
 
-![Jason Pic](/pics/jason4sm.jpg)
+![Jason Pic](/pics/j.png)
