@@ -1,3 +1,5 @@
+![Jason Pic](/pics/j.png)
+
 Hello!
 
 My name is Jason, and welcome to my [GitHub Pages](https://jasonp000.github.io) Site! 
@@ -9,5 +11,3 @@ Check out some of my other sites:
  * [https://www.linkedin.com/in/jason-patalon-0187/](https://www.linkedin.com/in/jason-patalon-0187/)
  * [https://SophieDogg.com](https://SophieDogg.com)
  * [https://github.com/jasonp000](https://github.com/jasonp000)
-
-![Jason Pic](/pics/j.png)
